@@ -1,3 +1,7 @@
 test
 conflict 2
 test conflict 2
+Test git stash
+git stash test
+Stash test
+new line first_branch
